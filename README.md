@@ -1,8 +1,8 @@
+<div align="center">
+  
 ## Hi there 👋
 
-<p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHppZHc1MnBzenNwNXk1eXR1cDl4aW1sMndrMDh6bnI0aDd4aHVidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="300" alt="TOTORO">
-</p>
 
 ### 💖 I'm Akimarie Villaflor  
 🎓 IT Student | 💻 IT Intern at XOO | 🌸 22 y/o  
@@ -13,9 +13,7 @@
 - 🌱 Exploring **Laravel**, **Tailwind CSS**, **React.js**, **Flutter**, and Git/GitHub  
 - ✨ Excited to grow as a developer and contribute with creativity & care  
 
-<p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG10bGN3aXlyN3BwMnh0M3IzbHRwbmwzcW4xbTA0b2x4cjM3ZTF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yg12tqyJwylsk/giphy.gif" width="300" alt="SAKURA">
-</p>
 
 ## 🎨 Skills
 - 🎀 **Frontend:** Laravel Blade, Tailwind CSS, React.js, Flutter  
@@ -25,3 +23,5 @@
 
 
 🌸 Always learning, improving, and excited to build something new! 🌸
+
+</div>
