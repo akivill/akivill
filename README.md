@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="Pink Bunny Anime">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHppZHc1MnBzenNwNXk1eXR1cDl4aW1sMndrMDh6bnI0aDd4aHVidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="220" alt="TOTORO">
 
 
 ### 💖 I'm Akimarie Villaflor  
@@ -12,7 +12,7 @@
 - 🌱 Exploring **Laravel**, **Tailwind CSS**, **React.js**, **Flutter**, and Git/GitHub  
 - ✨ Excited to grow as a developer and contribute with creativity & care  
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220" alt="Pink Heart Sparkles">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG10bGN3aXlyN3BwMnh0M3IzbHRwbmwzcW4xbTA0b2x4cjM3ZTF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yg12tqyJwylsk/giphy.gif" width="220" alt="SAKURA">
 
 ## 🎨 Skills
 - 🎀 **Frontend:** Laravel Blade, Tailwind CSS, React.js, Flutter  
