@@ -24,4 +24,21 @@
 
 🌸 Always learning, improving, and excited to build something new! 🌸
 
+## Tech Stack
+ 
+### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,php,python,dart" />
+</p>
+ 
+### 🌐 Frameworks
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,flutter,wordpress" />
+</p>
+ 
+### 🧰 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,jira,playwright" />
+</p>
+
 </div>
