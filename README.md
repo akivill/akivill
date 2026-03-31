@@ -1,11 +1,11 @@
 <div align="center">
   
-## Hi there 👋
+## ˚˖𓍢🌷✧ Hellooo ˚.🎀⋆
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHppZHc1MnBzenNwNXk1eXR1cDl4aW1sMndrMDh6bnI0aDd4aHVidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="300" alt="TOTORO">
 
-### 💖 I'm Akimarie Villaflor  
-🎓 IT Student | 💻 IT Intern at XOO | 🌸 22 y/o  
+### I'm Akimarie Villaflor  
+🎓 IT Student | 💻 XOO IT Intern | 🧸 22 y/o  
 
 
 ## 🌸 About Me
